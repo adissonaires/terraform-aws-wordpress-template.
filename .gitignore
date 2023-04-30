@@ -1,0 +1,5 @@
+certs/server.crt
+certs/server.key
+.terraform
+.idea
+modules/wp-host/.tmp
